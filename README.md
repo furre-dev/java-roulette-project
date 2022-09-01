@@ -1,7 +1,7 @@
 # java-roulette-project
 My Roulette project, written in Java.
 
-How to open and run the project file?
+## How to open and run the project file?
 
 1. Run IntelliJ and click on open project. Browse to the directory where the project file is located.
 2. Select the root(repository) folder! (java-roulette-project)

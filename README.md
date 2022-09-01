@@ -9,3 +9,6 @@ My Roulette project, written in Java.
 4. Click on Run.
 5. The console will appear, you can enter desired values and have fun playing roulette!
 6. Good luck ;)
+
+
+PS. Don't forget to click "Trust project".
